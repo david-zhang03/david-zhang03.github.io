@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://david-zhang03.github.io/al-folio/sitemap.xml
+Sitemap: https://david-zhang03.github.io/sitemap.xml
