@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Undergrad at Yale
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I study Statistics, Chemistry, and Computer Science at Yale. I also do research with the [van Dijk lab](https://vandijklab.org/) focused on biological foundation models, language models, and flow matching. I have also enjoyed serving as an undergraduate learning assistant for machine learning and statistics courses.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously did research at [Calico Labs](https://www.calicolabs.com/) across the Discovery Data Science and Oncology teams. There, I developed metabolic models for target discovery in tumor indications.
+I am also an open source contributor to [DeepChem](https://github.com/deepchem/deepchem/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My broad interests lie at the intersection of machine learning and the natural sciences (AI4Science), particularly in the applications of machine learning to biology and the drug discovery process. Some of my favorite courses include theory of statistics, deep learning on graphs, organic and physical chemistry, as well as cancer biology. 
+
+I am also casually interested in neuro/cognitive science inspired methods in machine learning, deep learning theory, mechanistic interpretability, and (biotech) startups. I am cautiously optimistic about the future of machine learning in biology and drug discovery, and I am excited to help shape this future for the betterment of humanity.
