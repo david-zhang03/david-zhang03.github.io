@@ -244,6 +244,12 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_me.md
+  - _pages/repositories.md # hide repositories page
+  - _pages/cv.md # hide cv page
+  - _pages/dropdown.md # hide dropdown page
+  - _pages/projects.md # hide projects page
+  - _pages/teaching.md # hide teaching page
+  - _pages/profiles.md # hide people page
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -370,7 +376,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: 5 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
