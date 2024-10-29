@@ -207,10 +207,10 @@ PLATFORMS
 
 DEPENDENCIES
   classifier-reborn
-  css_parser
+  css_parser (~> 1.17.1)
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.3.3)
   jekyll-archives
   jekyll-email-protect
   jekyll-feed
@@ -227,9 +227,9 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
-  mini_racer
+  mini_racer (~> 0.13.0)
   unicode_utils
-  webrick
+  webrick (~> 1.8.1)
 
 BUNDLED WITH
    2.5.17
