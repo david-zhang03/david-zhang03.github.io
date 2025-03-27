@@ -20,6 +20,4 @@ Hi! I study Statistics, Chemistry, and Computer Science at Yale. I also do resea
 I previously did research at [Calico Labs](https://www.calicolabs.com/) across the Discovery Data Science and Oncology teams. There, I developed metabolic models for target discovery in tumor indications.
 I am also an open source contributor to [DeepChem](https://github.com/deepchem/deepchem/). 
 
-My broad interests lie at the intersection of machine learning and the natural sciences (AI4Science), particularly in the applications of machine learning to biology and the drug discovery process. Some of my favorite courses include theory of statistics, deep learning on graphs, organic and physical chemistry, as well as cancer biology. 
-
-I am also casually interested in neuro/cognitive science inspired methods in machine learning, deep learning theory, mechanistic interpretability, and (biotech) startups. I am cautiously optimistic about the future of machine learning in biology and drug discovery, and I am excited to help shape this future for the betterment of humanity.
+My broad interests lie at the intersection of machine learning and the natural sciences (AI4Science), particularly in the applications of machine learning to biology and the drug discovery process. I am also casually interested in reinforcement learning, deep learning theory, mechanistic interpretability, and (biotech) startups.

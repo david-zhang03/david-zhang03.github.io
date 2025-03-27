@@ -32,7 +32,8 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
-RUN bundle install --no-cache
+RUN bundle config set --local force_ruby_platform true && \
+    bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 
